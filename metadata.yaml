@@ -1,0 +1,39 @@
+_repo: Soils-their-formation-properties-composition-and-relations-to-climate-and-plant-growth-in-the__73975
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hilgard, Eugene W. (Eugene Woldemar)
+    aliases:
+    - Hilgard, Eugene Woldemar
+    - Hilgard, E. W. (Eugene Woldemar)
+    - Hilgard, Eug. W. (Eugene Woldemar)
+    birthdate: 1833
+    deathdate: 1916
+    gutenberg_agent_id: '57294'
+    url: http://www.gutenberg.org/2009/agents/57294
+    wikipedia: https://en.wikipedia.org/wiki/Eugene_W._Hilgard
+description: ''
+gutenberg_issued: '2024-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73975'
+  lccn: 06026528
+language: en
+pgterms:marc904: https://archive.org/details/soilstheirformat00hilguoft/page/n7/mode/2up
+pgterms:marc905: 20210408153715hildgardph
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1906, pubdate 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soils'
+- !lcc 'S'
+- GITenberg
+title: Soils, their formation, properties, composition, and relations to climate and
+  plant growth in the humid and arid regions
+url: http://www.gutenberg.org/ebooks/73975
